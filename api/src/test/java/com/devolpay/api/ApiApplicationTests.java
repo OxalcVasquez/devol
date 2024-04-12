@@ -1,10 +1,10 @@
-package com.devol.pay;
+package com.devolpay.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PayApplicationTests {
+class ApiApplicationTests {
 
 	@Test
 	void contextLoads() {
